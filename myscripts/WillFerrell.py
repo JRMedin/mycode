@@ -19,7 +19,7 @@ else:
 print('The third and final quote for the Grand prize guess this film to win. "Its the ****ing Catalina Wine Mixer" remember you only get one guess and no calling tom cruise for help')
 answer = input("Your guess--> ")
 if answer.lower() == 'step brothers':
-    print('Congratulations! You win! Your prize?! To be trapped in this VM')
+    print('Congratulations!')
 else:
     print('WRONG!')
     
